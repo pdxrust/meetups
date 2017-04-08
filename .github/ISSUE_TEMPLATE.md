@@ -12,4 +12,6 @@
 
 * [ ] On-site host: `_____________`
 
+* [ ] Announce on https://www.meetup.com/PDXRust/
+
 CC organizers: @benstreb @edunham @fitzgen @jameysharp @jeenalee @jimblandy @MDCox @wraithan
